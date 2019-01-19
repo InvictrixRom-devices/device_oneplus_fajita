@@ -1,6 +1,20 @@
 [
   {
-    "repository": "device_oneplus_sdm845-common",
+    "repository": "InvictrixRom-devices/device_oneplus_sdm845-common",
     "target_path": "device/oneplus/sdm845-common"
+  },
+  {
+    "repository": "InvictrixRom-devices/kernel_oneplus_sdm845",
+    "target_path": "kernel/oneplus/sdm845"
+  },
+  {
+    "repository": "AOSiP-Devices/vendor_oneplus_sdm845-common",
+    "target_path": "vendor/oneplus/sdm845-common",
+    "branch": "pie"
+  },
+  {
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-16.0"
   }
 ]
